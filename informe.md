@@ -9,7 +9,7 @@
 
 ## 3. Fundamentos
 
-En esta práctica, se utilizó **Docker Compose** para crear un entorno de desarrollo con tres servicios: **WordPress**, **MySQL** y **PhpMyAdmin**. **Docker Compose** permite definir y ejecutar aplicaciones multi-contenedor de manera sencilla mediante un archivo `docker-compose.yml`. En este caso, se busca demostrar cómo integrar WordPress con PostgreSQL como base de datos y gestionar la base de datos mediante PhpMyAdmin, todo dentro de contenedores Docker.
+En esta práctica, se utilizó **Docker Compose** para crear un entorno de desarrollo con tres servicios: **WordPress**, **MySQL** y **PhpMyAdmin**. **Docker Compose** permite definir y ejecutar aplicaciones multi-contenedor de manera sencilla mediante un archivo `docker-compose.yml`. En este caso, se busca demostrar cómo integrar WordPress con MySQL como base de datos y gestionar la base de datos mediante PhpMyAdmin, todo dentro de contenedores Docker.
 
 ### Comandos Utilizados
 
