@@ -154,7 +154,7 @@ docker-compose down
 
 ## 9. Resultados
 
-La configuración y ejecución de los contenedores fue exitosa. Los tres servicios (WordPress, MySQL y PhpMyAdmin) se integraron correctamente, permitiendo que WordPress utilizara PostgreSQL como base de datos. PhpMyAdmin permitió gestionar la base de datos sin problemas. Al utilizar Docker Compose, se logró simplificar la orquestación de contenedores y la administración de servicios, todo dentro de un único archivo de configuración.
+La configuración y ejecución de los contenedores fue exitosa. Los tres servicios (WordPress, MySQL y PhpMyAdmin) se integraron correctamente, permitiendo que WordPress utilizara MySQL como base de datos. PhpMyAdmin permitió gestionar la base de datos sin problemas. Al utilizar Docker Compose, se logró simplificar la orquestación de contenedores y la administración de servicios, todo dentro de un único archivo de configuración.
 
 ---
 
