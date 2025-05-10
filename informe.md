@@ -127,7 +127,7 @@ docker-compose up -d
   <img src="./assets/up.png" alt="levantar compose" width="800">
 </p>
 
-Este comando descarga las imágenes necesarias y crea los contenedores para los tres servicios: WordPress, PostgreSQL y PhpMyAdmin.
+Este comando descarga las imágenes necesarias y crea los contenedores para los tres servicios: WordPress, MySQl y PhpMyAdmin.
 
 #### 1. Verificación de la ejecución
 
